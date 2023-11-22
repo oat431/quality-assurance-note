@@ -1,5 +1,5 @@
 # quality-assurance-note
-a software testing and software qa note for life long learning for me
+a software testing and software qa note for my own life long learning project 
 
 ## Fundamentals
 - Tester Mindset
